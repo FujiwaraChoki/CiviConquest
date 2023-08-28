@@ -1,0 +1,4 @@
+torch
+pygame
+requests
+PIL
