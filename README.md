@@ -1,4 +1,5 @@
 # CiviConquest
+>**Note**: When starting, make sure to make it full-sized, to see all elements.
 
 Welcome to CiviConquest! This project simulates a strategy game where players compete to build structures, gather resources, and conquer territories. The game features a GUI interface for interaction and includes an AI opponent.
 
